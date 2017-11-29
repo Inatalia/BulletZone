@@ -1,0 +1,7 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          android:id="@+id/fragment"
+          android:name="edu.unh.cs.cs619_2015_project2.g5.ReplayActivityFragment"
+          tools:layout="@layout/fragment_replay"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"/>
